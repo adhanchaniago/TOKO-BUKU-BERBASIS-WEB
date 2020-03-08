@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background: url(../gambar/1.jpg);
+
+}
+
+#page_container
+{
+	width:970px;
+	height:auto;
+	margin:auto;
+	
+}
+
+#header
+{
+	width:970px;
+	height:230px;
+	background: url(../gambar/3.png);
+}
+
+#content
+{
+	width:970px;
+	height:auto;
+	background-image:url(../gambar/2.png);
+
+}
+
+.clean
+{
+	clear:both;
+}
+
+#footer
+{
+	width:970px;
+	height:75px;
+	background: url(../gambar/4.png);
+}

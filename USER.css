@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background: url(gambar/1.jpg) ;
+	
+}
+
+#page_container
+{
+	
+	width:970px;
+	height:auto;
+	background-image: url(gambar/6.PNG);
+	margin:auto;
+}
+
+#header
+{
+	width:970px;
+	height:232px;
+	background: url(gambar/3.png);
+}
+#sidebarcolumn
+{
+	margin:0 200px 0 200px;
+}
+
+#leftsidebar
+{
+	width:200px;
+	height:auto;
+	font-family:bold 18 curlz mt;
+	background-image : url(gambar/2.PNG);
+	padding:5px;
+	margin-top:10px;
+	float:left;
+	border-radius:15px;
+}
+
+#rightsidebar
+{
+	width:200px;
+	height:auto;
+	font-family:bold 18 curlz mt;
+	background-image: url(gambar/2.PNG);
+	padding:5px;
+	margin-top:10px;
+	float:right;
+	border-radius:15px;
+}
+#content
+{
+	width:520px;
+	height:auto;
+	background-image: url(gambar/2.PNG);
+	padding:5px;
+	margin-top:10px;
+	float:left;
+	margin-left:10px;
+	border-radius:15px;
+}
+
+.clean
+{
+	clear:both;
+}
+
+#footer
+{
+	width:970px;
+	height:75px;
+	background: url(gambar/4.png);
+}
+
+.judul
+{
+	height:auto;
+	width:180px;
+	padding:10px;
+	background-image:url(gambar/5.jpg);
+	text-align:center;
+	font:bold 16px  "Lucida Sans Unicode", "Lucida Grande", sans-serif, cursive;
+	color: #FFF;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	
+
+}
+
+.isi
+{
+	height:auto;
+	width:180px;
+	padding:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	
+}
